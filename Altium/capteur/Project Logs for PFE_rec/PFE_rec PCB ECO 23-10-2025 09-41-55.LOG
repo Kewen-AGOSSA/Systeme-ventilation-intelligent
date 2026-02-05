@@ -1,0 +1,51 @@
+Change Component Designator: OldDesignator=BZ? NewDesignator=BZ
+Change Component Designator: OldDesignator=J STlink? NewDesignator=J STlink
+Change Component Designator: OldDesignator=P? NewDesignator=BME680
+Change component parameters: Designator = "R1"; Footprint = "RESISTANCE_CMS_1206"; UniqueID = "\IFZZCXRM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RESISTANCE_CMS_1206"; UniqueID = "\NRQKKQKY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RESISTANCE_CMS_1206"; UniqueID = "\GVDAAARI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RESISTANCE_CMS_1206"; UniqueID = "\NLVFOSSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RESISTANCE_CMS_1206"; UniqueID = "\HZKZDFWV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RESISTANCE_CMS_1206"; UniqueID = "\NQWZIVFL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=Rb(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=BME680-1
+Added Pin To Net: NetName=GND Pin=BME680-2
+Added Pin To Net: NetName=+3V3 Pin=BME680-5
+Added Pin To Net: NetName=GND Pin=BME680-6
+Added Pin To Net: NetName=GND Pin=BZ-2
+Added Pin To Net: NetName=Buzzer Pin=Rb-1
+Added Pin To Net: NetName=Buzzer Pin=U NRF 51882-28
+Added Net: Name=Buzzer
+Added Pin To Net: NetName=NetBZ_1 Pin=BZ-1
+Added Pin To Net: NetName=NetBZ_1 Pin=Rb-2
+Added Net: Name=NetBZ_1
+Added Pin To Net: NetName=SCL Pin=BME680-3
+Added Pin To Net: NetName=SCL Pin=U NRF 51882-8
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=BME680-4
+Added Pin To Net: NetName=SDA Pin=U NRF 51882-7
+Added Net: Name=SDA
+Added Member To Class: ClassName=PFE_rec Member=Component BME680 Header 6
+Added Member To Class: ClassName=PFE_rec Member=Component Rb RESISTANCE_CMS_1206
+Added Room: Name=PFE_rec

@@ -1,0 +1,185 @@
+Added Component: Designator=Batterie?(BORNIER2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "BORNIER2_M_C"; VariantName = "[No Variations]"
+Added Component: Designator=bms(SOT95P280X145-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DW01A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DW01A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DW01A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BOOST(SOT95P280X145-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MT3608/Aerosemi+Technology+Co.%252C+Ltd/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Aerosemi Technology Co., Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MT3608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MT3608/Aerosemi+Technology+Co.%252C+Ltd/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BZ?(BUZZER_SMA13)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "BUZZER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SMA13"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CONDENSATEUR_CMS_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CONDENSATEUR_CMS_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CONDENSATEUR_CMS_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CONDENSATEUR_CMS_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE_DO41)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "DO41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "1N5817"; VariantName = "[No Variations]"
+Added Component: Designator=J STlink?(BARRETTE_5_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_5"; VariantName = "[No Variations]"
+Added Component: Designator=MOSFET?(SOP65P640X120-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=U_CHARGE(SOP127P600X175-9N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TP4056/NanJing+Top+Power+ASIC+Corp./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NanJing Top Power ASIC Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TP4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TP4056/NanJing+Top+Power+ASIC+Corp./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U NRF 51882(E73-2G4M04S1B_BYT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Chengdu Ebyte Elec Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=USB(USB_B_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "USB_B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBatterie?_1 Pin=Batterie?-1
+Added Pin To Net: NetName=Batterie- Pin=Batterie?-2
+Added Pin To Net: NetName=OD Pin=bms-1
+Added Pin To Net: NetName=Netbms_2 Pin=bms-2
+Added Pin To Net: NetName=OC Pin=bms-3
+Added Pin To Net: NetName=VCC Pin=bms-5
+Added Pin To Net: NetName=GND Pin=bms-6
+Added Pin To Net: NetName=+3V3 Pin=BOOST-1
+Added Pin To Net: NetName=GND Pin=BOOST-2
+Added Pin To Net: NetName=NetBOOST_3 Pin=BOOST-3
+Added Pin To Net: NetName=Batterie- Pin=BOOST-4
+Added Pin To Net: NetName=NetBOOST_5 Pin=BOOST-5
+Added Pin To Net: NetName=NetBOOST_5 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=Batterie- Pin=C3-2
+Added Pin To Net: NetName=NetBatterie?_1 Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=+3V3 Pin=D?-2
+Added Pin To Net: NetName=+3V3 Pin=J STlink?-1
+Added Pin To Net: NetName=SWCLK Pin=J STlink?-2
+Added Pin To Net: NetName=SWDIO Pin=J STlink?-3
+Added Pin To Net: NetName=RST Pin=J STlink?-4
+Added Pin To Net: NetName=GND Pin=J STlink?-5
+Added Pin To Net: NetName=NetMOSFET?_1 Pin=MOSFET?-1
+Added Pin To Net: NetName=NetBatterie?_1 Pin=MOSFET?-2
+Added Pin To Net: NetName=NetBatterie?_1 Pin=MOSFET?-3
+Added Pin To Net: NetName=OC Pin=MOSFET?-5
+Added Pin To Net: NetName=NetMOSFET?_6 Pin=MOSFET?-6
+Added Pin To Net: NetName=NetMOSFET?_6 Pin=MOSFET?-7
+Added Pin To Net: NetName=NetMOSFET?_1 Pin=MOSFET?-8
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=Batterie- Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetBOOST_3 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetC2_1 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetD?_1 Pin=R5-2
+Added Pin To Net: NetName=NetMOSFET?_6 Pin=R6-1
+Added Pin To Net: NetName=Netbms_2 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=U_CHARGE-1
+Added Pin To Net: NetName=NetR1_2 Pin=U_CHARGE-2
+Added Pin To Net: NetName=GND Pin=U_CHARGE-3
+Added Pin To Net: NetName=+5V Pin=U_CHARGE-4
+Added Pin To Net: NetName=Batterie- Pin=U_CHARGE-5
+Added Pin To Net: NetName=GND Pin=U_CHARGE-8
+Added Pin To Net: NetName=GND Pin=U NRF 51882-1
+Added Pin To Net: NetName=GND Pin=U NRF 51882-2
+Added Pin To Net: NetName=GND Pin=U NRF 51882-3
+Added Pin To Net: NetName=GND Pin=U NRF 51882-16
+Added Pin To Net: NetName=+5V Pin=U NRF 51882-17
+Added Pin To Net: NetName=RST Pin=U NRF 51882-37
+Added Pin To Net: NetName=SWCLK Pin=U NRF 51882-38
+Added Pin To Net: NetName=SWDIO Pin=U NRF 51882-39
+Added Pin To Net: NetName=GND Pin=U NRF 51882-43
+Added Pin To Net: NetName=GND Pin=U NRF 51882-44
+Added Pin To Net: NetName=+5V Pin=USB-1
+Added Pin To Net: NetName=GND Pin=USB-4
+Added Member To Class: ClassName=PFE_rec Member=Component Batterie? BORNIER2 MALE COUDE
+Added Member To Class: ClassName=PFE_rec Member=Component bms DW01A
+Added Member To Class: ClassName=PFE_rec Member=Component BOOST MT3608
+Added Member To Class: ClassName=PFE_rec Member=Component BZ? BUZZER_SMA13
+Added Member To Class: ClassName=PFE_rec Member=Component C1 CMS_0603
+Added Member To Class: ClassName=PFE_rec Member=Component C2 CMS_0603
+Added Member To Class: ClassName=PFE_rec Member=Component C3 CMS_0603
+Added Member To Class: ClassName=PFE_rec Member=Component C4 CMS_0603
+Added Member To Class: ClassName=PFE_rec Member=Component D? DIODE_SCHOTTKY_DO41 : 1N5817
+Added Member To Class: ClassName=PFE_rec Member=Component J STlink? BARRETTE_5 CONTACTS_1 RANGEE_MALE_DROITE
+Added Member To Class: ClassName=PFE_rec Member=Component MOSFET? FS8205A
+Added Member To Class: ClassName=PFE_rec Member=Component P? Header 6
+Added Member To Class: ClassName=PFE_rec Member=Component R1 RESISTANCE_CMS_1206
+Added Member To Class: ClassName=PFE_rec Member=Component R2 RESISTANCE_CMS_1206
+Added Member To Class: ClassName=PFE_rec Member=Component R3 RESISTANCE_CMS_1206
+Added Member To Class: ClassName=PFE_rec Member=Component R4 RESISTANCE_CMS_1206
+Added Member To Class: ClassName=PFE_rec Member=Component R5 RESISTANCE_CMS_1206
+Added Member To Class: ClassName=PFE_rec Member=Component R6 RESISTANCE_CMS_1206
+Added Member To Class: ClassName=PFE_rec Member=Component U_CHARGE TP4056
+Added Member To Class: ClassName=PFE_rec Member=Component U NRF 51882 E73-2G4M04S1B
+Added Member To Class: ClassName=PFE_rec Member=Component USB USB_B
+Added Room: Name=PFE_rec

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5V Pin=USB-1
+Removed Pin From Net: NetName=GND Pin=USB-4
+Removed Member From Class: ClassName=PFE_rec Member=USB
+Change Component Designator: OldDesignator=J NewDesignator=USB
+Added Pin To Net: NetName=+5V Pin=USB-1
+Added Pin To Net: NetName=GND Pin=USB-4

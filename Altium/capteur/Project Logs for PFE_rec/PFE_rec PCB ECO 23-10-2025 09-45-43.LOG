@@ -1,0 +1,4 @@
+Added Component: Designator=J(USB_A_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "USB_A_C"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PFE_rec Member=Component J USB_A_COUDEE

@@ -1,0 +1,262 @@
+Removed Pin From Net: NetName=+3V3 Pin=*-1
+Removed Pin From Net: NetName=GND Pin=*-2
+Removed Pin From Net: NetName=+3V3 Pin=*-8
+Removed Pin From Net: NetName=GND Pin=AF1-1
+Removed Pin From Net: NetName=+5V Pin=AF1-2
+Removed Pin From Net: NetName=GND Pin=AF1-16
+Removed Pin From Net: NetName=GND Pin=CarBP-1
+Removed Pin From Net: NetName=+3V3 Pin=Cd_tft-1
+Removed Pin From Net: NetName=GND Pin=Cd_tft-2
+Removed Pin From Net: NetName=+5V Pin=Cdt-1
+Removed Pin From Net: NetName=GND Pin=Cdt-2
+Removed Pin From Net: NetName=GND Pin=CdUand-1
+Removed Pin From Net: NetName=GND Pin=CdWS2812-2
+Removed Pin From Net: NetName=GND Pin=Cft-2
+Removed Pin From Net: NetName=VCC Pin=Cin-1
+Removed Pin From Net: NetName=GND Pin=Cin-2
+Removed Pin From Net: NetName=GND Pin=Cmot3-1
+Removed Pin From Net: NetName=VCC Pin=Cmot3-2
+Removed Pin From Net: NetName=+5V Pin=Cout1-1
+Removed Pin From Net: NetName=GND Pin=Cout1-2
+Removed Pin From Net: NetName=GND Pin=Cout2-1
+Removed Pin From Net: NetName=+5V Pin=Cout2-2
+Removed Pin From Net: NetName=+3V3 Pin=Cout4-1
+Removed Pin From Net: NetName=GND Pin=Cout4-2
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=J_Acc-2
+Removed Pin From Net: NetName=GND Pin=J_analogSensor-1
+Removed Pin From Net: NetName=+5V Pin=J_Capt_US-1
+Removed Pin From Net: NetName=GND Pin=J_Capt_US-4
+Removed Pin From Net: NetName=GND Pin=J_GND-1
+Removed Pin From Net: NetName=VCC Pin=J_VCC-1
+Removed Pin From Net: NetName=GND Pin=Jcharge3-2
+Removed Pin From Net: NetName=+5V Pin=Jcharge-1
+Removed Pin From Net: NetName=+5V Pin=JUART-2
+Removed Pin From Net: NetName=GND Pin=JUART-3
+Removed Pin From Net: NetName=GND Pin=MatLED-1
+Removed Pin From Net: NetName=GND Pin=Pot-3
+Removed Pin From Net: NetName=GND Pin=QnMOS1-2
+Removed Pin From Net: NetName=GND Pin=QnMOS2-3
+Removed Pin From Net: NetName=+3V3 Pin=QpMOS-2
+Removed Pin From Net: NetName=+5V Pin=Rctrst-1
+Removed Pin From Net: NetName=GND Pin=RpullMos1-1
+Removed Pin From Net: NetName=GND Pin=RpullMos2-1
+Removed Pin From Net: NetName=+3V3 Pin=RpullMosP-2
+Removed Pin From Net: NetName=+5V Pin=RpuTrig-2
+Removed Pin From Net: NetName=+5V Pin=Rretro LCD-1
+Removed Pin From Net: NetName=GND Pin=Servo-1
+Removed Pin From Net: NetName=GND Pin=Sw1-1
+Removed Pin From Net: NetName=+5V Pin=U3V3-1
+Removed Pin From Net: NetName=GND Pin=U3V3-2
+Removed Pin From Net: NetName=+3V3 Pin=U3V3-3
+Removed Pin From Net: NetName=VCC Pin=U5V-1
+Removed Pin From Net: NetName=GND Pin=U5V-2
+Removed Pin From Net: NetName=+5V Pin=U5V-3
+Removed Pin From Net: NetName=GND Pin=Uand-3
+Removed Pin From Net: NetName=GND Pin=Uc-19
+Removed Pin From Net: NetName=GND Pin=Uc-20
+Removed Pin From Net: NetName=+5V Pin=Uc-38
+Removed Pin From Net: NetName=GND Pin=Uc-39
+Removed Pin From Net: NetName=VCC Pin=Umot3-2
+Removed Pin From Net: NetName=VCC Pin=Umot3-3
+Removed Pin From Net: NetName=VCC Pin=Umot3-6
+Removed Pin From Net: NetName=GND Pin=Umot3-8
+Removed Pin From Net: NetName=+5V Pin=Utemp-1
+Removed Pin From Net: NetName=GND Pin=Utemp-3
+Added Component: Designator=Batterie?(BORNIER2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "BORNIER2_M_C"; VariantName = "[No Variations]"
+Added Component: Designator=BME680(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=bms(SOT95P280X145-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DW01A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DW01A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DW01A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BOOST(SOT95P280X145-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MT3608/Aerosemi+Technology+Co.%252C+Ltd/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Aerosemi Technology Co., Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MT3608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MT3608/Aerosemi+Technology+Co.%252C+Ltd/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BZ(BUZZER_SMA13)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "BUZZER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SMA13"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CONDENSATEUR_CMS_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CONDENSATEUR_CMS_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CONDENSATEUR_CMS_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CONDENSATEUR_CMS_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE_DO41)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "DO41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "1N5817"; VariantName = "[No Variations]"
+Added Component: Designator=J STlink(BARRETTE_5_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_5"; VariantName = "[No Variations]"
+Added Component: Designator=MOSFET?(SOP65P640X120-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20kO"; VariantName = "[No Variations]"
+Added Component: Designator=Rb(RESISTANCE_CMS_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=U_CHARGE(SOP127P600X175-9N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TP4056/NanJing+Top+Power+ASIC+Corp./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NanJing Top Power ASIC Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TP4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TP4056/NanJing+Top+Power+ASIC+Corp./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U NRF 51882(E73-2G4M04S1B_BYT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Chengdu Ebyte Elec Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=USB(USB_B_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "USB_B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=bms-5
+Added Pin To Net: NetName=GND Pin=bms-6
+Added Pin To Net: NetName=+3V3 Pin=BOOST-1
+Added Pin To Net: NetName=GND Pin=BOOST-2
+Added Pin To Net: NetName=GND Pin=BZ-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=+3V3 Pin=D?-2
+Added Pin To Net: NetName=+3V3 Pin=J STlink-1
+Added Pin To Net: NetName=GND Pin=J STlink-5
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=U_CHARGE-1
+Added Pin To Net: NetName=GND Pin=U_CHARGE-3
+Added Pin To Net: NetName=+5V Pin=U_CHARGE-4
+Added Pin To Net: NetName=GND Pin=U_CHARGE-8
+Added Pin To Net: NetName=GND Pin=U NRF 51882-1
+Added Pin To Net: NetName=GND Pin=U NRF 51882-2
+Added Pin To Net: NetName=GND Pin=U NRF 51882-3
+Added Pin To Net: NetName=GND Pin=U NRF 51882-16
+Added Pin To Net: NetName=+5V Pin=U NRF 51882-17
+Added Pin To Net: NetName=GND Pin=U NRF 51882-43
+Added Pin To Net: NetName=GND Pin=U NRF 51882-44
+Added Pin To Net: NetName=+5V Pin=USB-1
+Added Pin To Net: NetName=GND Pin=USB-4
+Added Pin To Net: NetName=Batterie- Pin=Batterie?-2
+Added Pin To Net: NetName=Batterie- Pin=BOOST-4
+Added Pin To Net: NetName=Batterie- Pin=C3-2
+Added Pin To Net: NetName=Batterie- Pin=R2-1
+Added Pin To Net: NetName=Batterie- Pin=U_CHARGE-5
+Added Net: Name=Batterie-
+Added Pin To Net: NetName=Buzzer Pin=Rb-1
+Added Pin To Net: NetName=Buzzer Pin=U NRF 51882-28
+Added Net: Name=Buzzer
+Added Pin To Net: NetName=NetBatterie?_1 Pin=Batterie?-1
+Added Pin To Net: NetName=NetBatterie?_1 Pin=C4-1
+Added Pin To Net: NetName=NetBatterie?_1 Pin=MOSFET?-2
+Added Pin To Net: NetName=NetBatterie?_1 Pin=MOSFET?-3
+Added Net: Name=NetBatterie?_1
+Added Pin To Net: NetName=Netbms_2 Pin=bms-2
+Added Pin To Net: NetName=Netbms_2 Pin=R6-2
+Added Net: Name=Netbms_2
+Added Pin To Net: NetName=NetBOOST_3 Pin=BOOST-3
+Added Pin To Net: NetName=NetBOOST_3 Pin=R3-1
+Added Net: Name=NetBOOST_3
+Added Pin To Net: NetName=NetBOOST_5 Pin=BOOST-5
+Added Pin To Net: NetName=NetBOOST_5 Pin=C1-1
+Added Net: Name=NetBOOST_5
+Added Pin To Net: NetName=NetBZ_1 Pin=BZ-1
+Added Pin To Net: NetName=NetBZ_1 Pin=Rb-2
+Added Net: Name=NetBZ_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R4-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R5-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetMOSFET?_1 Pin=MOSFET?-1
+Added Pin To Net: NetName=NetMOSFET?_1 Pin=MOSFET?-8
+Added Net: Name=NetMOSFET?_1
+Added Pin To Net: NetName=NetMOSFET?_6 Pin=MOSFET?-6
+Added Pin To Net: NetName=NetMOSFET?_6 Pin=MOSFET?-7
+Added Pin To Net: NetName=NetMOSFET?_6 Pin=R6-1
+Added Net: Name=NetMOSFET?_6
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U_CHARGE-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=OC Pin=bms-3
+Added Pin To Net: NetName=OC Pin=MOSFET?-5
+Added Net: Name=OC
+Added Pin To Net: NetName=OD Pin=bms-1
+Added Net: Name=OD
+Added Pin To Net: NetName=RST Pin=J STlink-4
+Added Pin To Net: NetName=RST Pin=U NRF 51882-37
+Added Net: Name=RST
+Added Pin To Net: NetName=SWCLK Pin=J STlink-2
+Added Pin To Net: NetName=SWCLK Pin=U NRF 51882-38
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J STlink-3
+Added Pin To Net: NetName=SWDIO Pin=U NRF 51882-39
+Added Net: Name=SWDIO
+Added Class: Name=PFE_rec
+Change Room Name: Old Name=projet_pcb_F103 New Name=PFE_rec
+Change Room Scope: Old Scope=InComponentClass('projet_pcb_F103') New Scope=InComponentClass('PFE_rec')
