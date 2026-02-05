@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "stdint.h": "c",
+        "nrf_delay.h": "c",
+        "boards.h": "c",
+        "nrfx.h": "c",
+        "core_cm4.h": "c",
+        "nrf_ble_gatt.h": "c",
+        "ble.h": "c",
+        "nrf_ble_scan.h": "c",
+        "nrf_gpio.h": "c",
+        "nrf_ble_qwr.h": "c",
+        "ble_lbs.h": "c"
+    },
+    "nrf-connect.applications": [
+        "${workspaceFolder}/Tetra_bar"
+    ]
+}
